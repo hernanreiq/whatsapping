@@ -1,0 +1,48 @@
+body {
+    background-image: url('../img/fondo.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: #fff;
+    text-shadow: 1px 1px 1px black;
+}
+h1 {
+    font-size: 80px;
+    font-weight: lighter;
+}
+@media only screen and (max-width: 770px) {
+   h1 {
+       font-size: 60px;
+   }
+}
+@media only screen and (max-width: 450px) {
+   h1 {
+       font-size: 40px;
+   }
+}
+@media only screen and (max-width: 300px) {
+   h1 {
+       font-size: 35px;
+   }
+}
+@media only screen and (max-width: 280px) {
+   h1 {
+       font-size: 25px;
+   }
+}
+div.contenedor-ws {
+    max-width: 600px;
+    background-color: #14d65b44;
+    border: 1.5px solid white;
+    border-radius: 5px;
+}
+.logo {
+    font-size: 200px;
+}
+.btn {
+    font-weight: bold;
+}
+footer a{
+    letter-spacing: 1px;
+}
