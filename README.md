@@ -5,4 +5,4 @@ Envía mensajes sin agregar a la persona.
 ### [WhatsApping](https://hernanreiq.github.io/whatsapping/)
 
 ## Visita mi portafolio de proyectos y habilidades
-### :heart: [Link](https://bit.ly/hernanreiq) 
+### :heart: [Enlace](https://bit.ly/hernanreiq) 
